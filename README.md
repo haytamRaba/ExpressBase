@@ -1,0 +1,1 @@
+This project is a beginner-friendly Backend API built with Node.js and Express. It demonstrates how to create a server, handle routes, connect to a database MongoDB Atlass, and build a  RESTful API. The goal is to understand how the backend works behind web and mobile applications.
